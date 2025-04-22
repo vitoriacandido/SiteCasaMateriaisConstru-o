@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\2\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\x\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\2\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj": {
+    "C:\\Users\\Alunos\\Documents\\x\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\2\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\x\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj",
         "projectName": "SiteCasaMateriaisConstru-o",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\2\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\x\\SiteCasaMateriaisConstru-o\\SiteCasaMateriaisConstru-o.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\2\\SiteCasaMateriaisConstru-o\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\x\\SiteCasaMateriaisConstru-o\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

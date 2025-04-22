@@ -1,0 +1,74 @@
+/* Reset básico */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/mm.jpg);
+
+  }
+  
+  /* ===== HEADER ===== */
+  .navbar {
+    background-color: #c48a1fb0;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-brand img {
+    object-fit: contain;
+  }
+  
+  .nav-link {
+    color: #e9e9e9;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+ 
+  
+  /* ===== MAIN CONTENT ===== */
+  main h1 {
+    color: #662b04ef;
+    margin-bottom: 20px;
+  }
+  
+  main p.lead {
+    color: #000000a4;
+  }
+  
+  /* ===== CAROUSEL ===== */
+  .carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .carousel img {
+    height: 450px;
+    object-fit: cover;
+  }
+  
+  /* ===== FOOTER ===== */
+  footer {
+    background-color: #000000;
+    color: #ff7b3e73;
+  }
+  
+  footer a {
+    color: #ffc29ad8;
+    transition: color 0.3s ease;
+  }
+  
+  /* ===== BUTTONS / CONTROLS ===== */
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    padding: 10px;
+    border-radius: 20%;
+  }
+  
+  /* ===== MEDIA QUERIES ===== */
+  @media (max-width: 768px) {
+    .carousel img {
+      height: 250px;
+    }
+  }
+  
